@@ -2,9 +2,13 @@ yeni kodlar yazdım
 v1
 Mehmet hıcam selamlar
 v2
-Ceylan hocam selamlar
+yeni yeni şeyler yazdım
 v3
-Enver hocam selamlar
+
+conflict deneme
 v4
-Gülsün hocam selamlar
-v5
+
+confict//////
+conflict++++++
+git diff kullanıcam
+pusluyoruz

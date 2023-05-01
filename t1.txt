@@ -2,9 +2,13 @@ kodlar yazdım
 v1
 kodlar kodlar ah kodlar
 v2
-Ceylan hocam selamlar
+yeni yeni şeyler yazdım
 v3
-Enver hocam selamlar
+
+conlict deniyoruz
 v4
-Gülsün hocam selamlar
-v5
+
+conlict---------
+confilct**************
+git diff kullanıcam
+pusluyoruz
