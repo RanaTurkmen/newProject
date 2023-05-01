@@ -8,3 +8,5 @@ Enver hocam selamlar
 v4
 Gülsün hocam selamlar
 v5
+şimdi rana branchiinde push yapıcam
+v6
