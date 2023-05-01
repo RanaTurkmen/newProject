@@ -2,12 +2,5 @@ yeni kodlar yazdım
 v1
 Mehmet hıcam selamlar
 v2
-Ceylan hocam selamlar
+yeni yeni şeyler yazdım
 v3
-Enver hocam selamlar
-v4
-Gülsün hocam selamlar
-v5
-şimdi rana branchiinde push yapıcam
-v6
-git pull deniyorumm
