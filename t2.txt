@@ -10,3 +10,4 @@ Gülsün hocam selamlar
 v5
 şimdi rana branchiinde push yapıcam
 v6
+git pull deniyorumm
